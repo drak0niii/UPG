@@ -1,70 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T12:38:43.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="GBxl4nRWPg1hxnS5asxZ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T12:41:49.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="ymKOpTcMA92iwi7blk1L" version="20.7.4" type="github">
   <diagram id="D0pcz6vuqmUrcua5Kuvg" name="Page-1">
     <mxGraphModel dx="1026" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-1" value="Class" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="482" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="462" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-2" value="Scan" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="382" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="362" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-5" value="Get Started&lt;br&gt;&amp;lt;logo&amp;gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="150" height="150" as="geometry" />
+          <mxGeometry x="180" y="190" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="PKq0YOTUIHZ_qvJE_4aY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="ZCA3S4wdHOKqiwq0sCwG-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="10" as="targetPoint" />
+            <mxPoint x="420" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-6" value="Sign In&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="482" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="462" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" source="ZCA3S4wdHOKqiwq0sCwG-7" target="ZCA3S4wdHOKqiwq0sCwG-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="10" />
-              <mxPoint x="100" y="10" />
-              <mxPoint x="100" y="320" />
+              <mxPoint x="730" y="120" />
+              <mxPoint x="80" y="120" />
+              <mxPoint x="80" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-7" value="Create Account" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="710" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="690" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PKq0YOTUIHZ_qvJE_4aY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="ZCA3S4wdHOKqiwq0sCwG-10" target="PKq0YOTUIHZ_qvJE_4aY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-10" value="Settings" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="578" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="558" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-17" value="Events" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="280" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-18" value="Home" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="180" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-26" value="Reset Password" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="482" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="462" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-27" value="&lt;br&gt;General Info UPG&lt;br style=&quot;font-size: 10px;&quot;&gt;Students Space&lt;br&gt;News&lt;br&gt;Announcements&lt;br&gt;Contact&lt;br&gt;&lt;br&gt;Feedback Form" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="180" y="390" width="80" height="120" as="geometry" />
+          <mxGeometry x="160" y="500" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-28" value="Academic Events&lt;br&gt;Local Events&lt;br&gt;Featured Events" style="shape=note;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fontSize=10;horizontal=1;verticalAlign=middle;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="280" y="390" width="80" height="120" as="geometry" />
+          <mxGeometry x="260" y="500" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-29" value="Start Camera&lt;br style=&quot;font-size: 11px;&quot;&gt;Scan QR Code" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="382" y="390" width="80" height="120" as="geometry" />
+          <mxGeometry x="362" y="500" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-30" value="Schedule&lt;br&gt;Get Around &lt;br&gt;(MAPS)&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="482" y="390" width="80" height="120" as="geometry" />
+          <mxGeometry x="462" y="500" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZCA3S4wdHOKqiwq0sCwG-32" value="Camera&lt;br&gt;Notification&lt;br&gt;Appearance&lt;br&gt;Language" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="580" y="390" width="80" height="120" as="geometry" />
+          <mxGeometry x="560" y="500" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PKq0YOTUIHZ_qvJE_4aY-4" value="Version&lt;br&gt;Feedback" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="710" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="690" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PKq0YOTUIHZ_qvJE_4aY-9" value="Aplicația Universitatea Petrol-Gaze, Ploiești" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;labelBorderColor=default;labelBackgroundColor=default;textOpacity=80;fontSize=18;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
