@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T11:52:45.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.7.4" etag="pTwA9s_o1KGnXRuroj2X" type="github"><diagram id="U8460r4VjDUQzwWRpo9B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-29T12:15:09.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.7.4" etag="jTb1Wm_lslERo8qO8JyO" type="github">
+  <diagram id="D0pcz6vuqmUrcua5Kuvg" name="Page-1">
+    <mxGraphModel dx="1026" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-1" value="Class" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="482" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-2" value="Scan" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="382" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-5" value="Get Started&lt;br&gt;&amp;lt;logo&amp;gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="ZCA3S4wdHOKqiwq0sCwG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-6" value="Sign In&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="ZCA3S4wdHOKqiwq0sCwG-7" target="ZCA3S4wdHOKqiwq0sCwG-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="120" />
+              <mxPoint x="650" y="10" />
+              <mxPoint x="100" y="10" />
+              <mxPoint x="100" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-7" value="Create Account" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-10" value="Settings" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="578" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-17" value="Events" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-18" value="Home" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-26" value="Reset Password" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-27" value="General Info UPG&lt;br style=&quot;font-size: 10px;&quot;&gt;Students Space&lt;br&gt;News&lt;br&gt;Announcements&lt;br&gt;Contact" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-28" value="Academic Events&lt;br&gt;Local Events&lt;br&gt;Featured Events" style="shape=note;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fontSize=10;horizontal=1;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-29" value="Start Camera&lt;br style=&quot;font-size: 11px;&quot;&gt;Scan QR Code" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-30" value="Schedule" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="390" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCA3S4wdHOKqiwq0sCwG-32" value="Camera&lt;br&gt;Notification&lt;br&gt;Appearance&lt;br&gt;Language" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="390" width="80" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
